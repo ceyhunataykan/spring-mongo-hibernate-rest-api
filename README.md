@@ -1,2 +1,2 @@
-# spring-restapi
-CRUD REST API/Service with Spring Boot, JPA and Hibernate, MongoDB
+# Java Spring Boot RESTAPI
+CRUD REST API/Service with Spring Boot, Maven, JPA and Hibernate, MongoDB
